@@ -1,0 +1,43 @@
+.container {
+	display: flex;
+	justify-content: center;
+
+
+}
+
+.links{
+		position: sticky;
+		top: 40px;
+		width: 130px;
+		display: flex;
+		flex-direction: column;
+		font-size: 25px;
+		padding-left: 20px;
+
+	}
+
+h1{
+	font-family: 'IM Fell French Canon', serif;
+	  font-style: italic;
+
+
+
+}
+
+h2{
+font-family: 'IM Fell French Canon', serif;
+	  font-style: italic;
+
+
+}
+
+h3{
+	font-family: 'IM Fell French Canon', serif;
+	  font-style: italic;
+}
+
+p{
+
+
+	
+}
